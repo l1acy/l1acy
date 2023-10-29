@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Lemur
-- 📫 How to reach me Lemur#8933(Discord)
+- My discord: l1acy
 
 <!---
 Lemurc/Lemurc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
