@@ -1,4 +1,4 @@
-- My discord: l1acy
+👋 Hello world, I'm l1acy
 
 <!---
 Lemurc/Lemurc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
