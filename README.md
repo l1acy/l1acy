@@ -1,3 +1,4 @@
+![](https://github.com/l1acy/ender.engine/blob/main/static/banner.png?raw=true)
 Люблю чай с молоком, а еще бабл-ти 🧋
 
 Работаю над своим 2D движком на основе pygame
