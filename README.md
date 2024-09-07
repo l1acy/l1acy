@@ -1,9 +1,4 @@
-[![](https://github.com/l1acy/ender.engine/blob/main/static/banner.png?raw=true)](https://github.com/l1acy/ender.engine)
-Люблю чай с молоком, а еще бабл-ти 🧋
-
-Работаю над своим 2D движком на основе pygame
-
-<!---
-Lemurc/Lemurc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 hi, i'm l1acy
+A bit of a programmer and designer
+### Skils:
+<img src="https://github.com/user-attachments/assets/4fbe14e2-361a-4905-9346-a24984b399d1" width="45">     <img src="https://github.com/user-attachments/assets/571c3316-c476-411f-8989-dcb1f6ff62a8" width="45">
