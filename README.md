@@ -9,17 +9,17 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="24" width="24"/>
       <p><b>Python</b></p>
-      <p>Create backend and chat-bots</p>
+      <p>Developed backend and chat-bots</p>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="24" width="24"/>
       <p><b>JS + TS</b></p>
-      <p>Create frontend on React</p>
+      <p>Developed frontend on React</p>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="24" width="24"/>
       <p><b>Kotlin</b></p>
-      <p>Create plugis for Bukkit</p>
+      <p>Developed plugis for Bukkit</p>
     </td>
   </tr>
 </table>
@@ -31,17 +31,17 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="24" width="24" />
       <p><b>FastAPI</b></p>
-      <p>Create backend on Python</p>
+      <p>Developed backend on Python</p>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="24" width="24" />
       <p><b>NextJS</b></p>
-      <p>Create SSR frontend on JS</p>
+      <p>Developed SSR frontend on JS</p>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="24" width="24" />
       <p><b>React</b></p>
-      <p>Create CSR frontend on JS</p>
+      <p>Developed CSR frontend on JS</p>
     </td>
   </tr>
 </table>
