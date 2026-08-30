@@ -1,5 +1,27 @@
 ![](/l1_cover.png)
 
+# My skills
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="24" width="24"/>
+      <p><b>Python</b></p>
+      <p>Create backend and chat-bots</p>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="24" width="24"/>
+      <p><b>JS + TS</b></p>
+      <p>Create frontend on React</p>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="24" width="24"/>
+      <p><b>Kotlin</b></p>
+      <p>Create plugis for Bukkit</p>
+    </td>
+  </tr>
+</table>
+
+
 <!--
 **l1acy/l1acy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
