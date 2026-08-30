@@ -1,6 +1,9 @@
 ![](/l1_cover.png)
 
 # My skills
+
+## Languages
+
 <table>
   <tr>
     <td>
@@ -17,6 +20,28 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="24" width="24"/>
       <p><b>Kotlin</b></p>
       <p>Create plugis for Bukkit</p>
+    </td>
+  </tr>
+</table>
+
+## Libs & frameworks
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="24" width="24" />
+      <p><b>FastAPI</b></p>
+      <p>Create backend on Python</p>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="24" width="24" />
+      <p><b>NextJS</b></p>
+      <p>Create SSR frontend on JS</p>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="24" width="24" />
+      <p><b>React</b></p>
+      <p>Create CSR frontend on JS</p>
     </td>
   </tr>
 </table>
