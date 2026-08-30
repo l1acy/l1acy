@@ -1,4 +1,4 @@
-## Hi there 👋
+![](/l1_cover.png)
 
 <!--
 **l1acy/l1acy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
