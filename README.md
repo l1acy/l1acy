@@ -46,6 +46,18 @@
   </tr>
 </table>
 
+## Other
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="24" width="24" />
+      <p><b>Figma</b></p>
+      <p>Designed web and mobile apps</p>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **l1acy/l1acy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
